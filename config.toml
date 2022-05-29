@@ -1,4 +1,4 @@
-BaseURL = "http://example.org/"
+BaseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Pomodorozhong"
